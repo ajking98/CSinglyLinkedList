@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ebdc40d-0db7-4a21-b560-58bcf20a516c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="SinglyLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+              <folding>
+                <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+                <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SinglyLinkedListTest4U.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+                <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListAdditionalTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListAdditionalTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="method#testCircularityOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testCircularityGeneral#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testAddStringsIndexNotOrder#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testAddNegativeIndex#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testAddTooHighIndex#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testAddStringsBack#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testGetEmptyList#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testGetOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromBackNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromFrontNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromBackOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromFrontOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromBack#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveFromFront#0;class#LinkedListAdditionalTests#0" expanded="true" />
+                <element signature="method#testRemoveLastOccurrenceMultipleCopies#0;class#LinkedListAdditionalTests#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+                <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListStudentTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+              <folding>
+                <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+                <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+                <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+                <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+                <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+                <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LinkedListInterface.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListStudentTests.java" />
+        <option value="$PROJECT_DIR$/src/SinglyLinkedListTest4U.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListAdditionalTests.java" />
+        <option value="$PROJECT_DIR$/src/SinglyLinkedList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="976" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DoublyLinkedList/src/DoublyLinkedList.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListAdditionalTests">
+    <configuration name="LinkedListAdditionalTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CircularSinglyLinkedList" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListAdditionalTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListStudentTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CircularSinglyLinkedList" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListStudentTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SinglyLinkedListTest4U" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CircularSinglyLinkedList" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedListTest4U" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SinglyLinkedListTest4U.removeFromFrontNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CircularSinglyLinkedList" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedListTest4U" />
+      <option name="METHOD_NAME" value="removeFromFrontNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LinkedListStudentTests" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SinglyLinkedListTest4U" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SinglyLinkedListTest4U.removeFromFrontNull" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LinkedListAdditionalTests" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LinkedListAdditionalTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SinglyLinkedListTest4U" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LinkedListStudentTests" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SinglyLinkedListTest4U.removeFromFrontNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ebdc40d-0db7-4a21-b560-58bcf20a516c" name="Default" comment="" />
+      <created>1516210386452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516210386452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LinkedListAdditionalTests - 2018.01.24 at 12h 42m 57s.xml">
+      <configuration name="LinkedListAdditionalTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListAdditionalTests - 2018.01.24 at 12h 43m 38s.xml">
+      <configuration name="LinkedListAdditionalTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListAdditionalTests - 2018.01.24 at 12h 43m 53s.xml">
+      <configuration name="LinkedListAdditionalTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 39m 10s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 39m 33s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 39m 41s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 41m 02s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 41m 39s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 42m 06s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SinglyLinkedListTest4U - 2018.01.24 at 12h 42m 15s.xml">
+      <configuration name="SinglyLinkedListTest4U" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43555316" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5311493" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java</url>
+          <line>245</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java</url>
+          <line>244</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java</url>
+          <line>248</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="100" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((SinglyLinkedList)list).head.next" custom="SinglyLinkedList" />
+        <watch expression="((SinglyLinkedListTest4U)this).ideal" custom="SinglyLinkedListTest4U" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3066">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="159" column="3" lean-forward="false" selection-start-line="159" selection-start-column="3" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3066">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="159" column="3" lean-forward="true" selection-start-line="159" selection-start-column="3" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="117" column="6" lean-forward="true" selection-start-line="117" selection-start-column="6" selection-end-line="117" selection-end-column="6" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4326">
+          <caret line="208" column="37" lean-forward="false" selection-start-line="208" selection-start-column="37" selection-end-line="208" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="94" column="25" lean-forward="false" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="142" column="7" lean-forward="true" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="199" column="15" lean-forward="false" selection-start-line="199" selection-start-column="15" selection-end-line="199" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DoublyLinkedList/src/DoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="114" column="31" lean-forward="false" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;method#removeAtIndex#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromFront#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeFromBack#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#removeLastOccurrence#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#get#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#isEmpty#0;class#LinkedListInterface#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#LinkedListInterface#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+          <folding>
+            <element signature="method#testAddStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testAddStringsFront#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testRemoveStrings#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testGetGeneral#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#testToArray#0;class#LinkedListStudentTests#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNullItemPassed#0;class#LinkedListStudentTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedListTest4U.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndex2#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLarger#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#addToBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromFrontNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeFromBackNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrence#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#removeLastOccurrenceNull#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getCircular#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexLow#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getAtIndexHigh#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#isEmpty#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedListTest4U#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListAdditionalTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="method#testCircularityOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testCircularityGeneral#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testAddStringsIndexNotOrder#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testAddNegativeIndex#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testAddTooHighIndex#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testAddStringsBack#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testGetEmptyList#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testGetOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromBackNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromFrontNoElements#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromBackOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromFrontOneElement#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromBack#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveFromFront#0;class#LinkedListAdditionalTests#0" expanded="true" />
+            <element signature="method#testRemoveLastOccurrenceMultipleCopies#0;class#LinkedListAdditionalTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+          <folding>
+            <element signature="docComment;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#addToBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeAtIndex#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromFront#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#removeFromBack#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#get#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#toArray#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#clear#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#size#0;class#SinglyLinkedList#0" expanded="true" />
+            <element signature="method#getHead#0;class#SinglyLinkedList#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
